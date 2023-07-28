@@ -1,0 +1,5 @@
+dans 1 premier temp installé python
+
+puis ensuite une fois python installer lancer install.bat
+
+puis une fois finis lancer start.bat
